@@ -1,0 +1,9 @@
+﻿,estimado (Parte C),verdadeiro (gerador)
+redução da perda média (R$ mi),22.015997766003604,23.330008615829
+erro padrão da redução (R$ mi),0.007346950593877435,0.04043989088192037
+benefício líquido médio (R$ mi),14.015997766003604,15.330008615829001
+ROI (%),175.19997207504505,191.62510769786255
+P(perda c/ controles + custo > perda atual),0.0,0.0001
+custo máximo que se paga na média (R$ mi),22.015997766003604,23.330008615829
+redução do VaR 95% (R$ mi),24.63540497898534,26.420991605000022
+redução do CVaR 95% (R$ mi),25.38606654958633,27.9674136103
